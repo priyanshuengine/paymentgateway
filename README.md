@@ -1,4 +1,4 @@
-# Social Login
+# Payment Gateway Integration
  
 This app is developed to complete Task  of the **Graduate Rotational Internship Program (GRIP) by [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/).**
 
@@ -6,7 +6,7 @@ This app is developed to complete Task  of the **Graduate Rotational Internship 
 
 
 ### Video Demonstration:
-https://github.com/priyanshuengine/paymentgateway/blob/main/Payment%20Gateway%20Integration%20_%20The%20Sparks%20Foundation%20_%20%20%23GRIPSEPT22.mp4
+(https://youtu.be/Y3EcK0WRcZ8)
 
 <hr>
 
